@@ -149,8 +149,8 @@ class IotDataGen:
 def main():
 
     USERNAME = os.environ["PROJECT_OWNER"]
-    DBNAME = "proceso"
-    CONNECTION_NAME = "bco-cdp-prd-datalake"
+    DBNAME = "default"
+    CONNECTION_NAME = "go01-aw-dl"
 
     # Instantiate BankDataGen class
     dg = IotDataGen(USERNAME, DBNAME, CONNECTION_NAME)
