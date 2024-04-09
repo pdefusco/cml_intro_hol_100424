@@ -78,7 +78,7 @@ Copia la URL del repositorio Git en tu portapapeles y ingrésala en el formulari
 
 ![alt text](img/cmlintronewimg1.png)
 
-Agregar dos Runtimes en Python 3.9, uno con JupyterLab y otro con Editores de Workbench. Selecciona cualquier edición disponible en tu Workspace.
+Agrega dos Runtimes en Python 3.9, uno con JupyterLab y otro con Editores de Workbench. Selecciona cualquier edición disponible en tu Workspace.
 
 ![alt text](img/cmlintronewimg2.png)
 
